@@ -2,14 +2,14 @@
 
 > CS student · Cybersecurity & Backend
 
-I'm interested in how systems work — and how they break.
+I'm interested in how systems work, and how they break.
 Currently studying Computer Science with a focus on
 **network security**, **backend development**, and **low-level programming**.
 
 - 🔐 CTF enthusiast (web, crypto, reverse)
 - 🛠️ Building tools in Python, C and TypeScript
-- 🌱 Currently exploring: API security & secure coding
-- 📫 Reach me: [LinkedIn](#https://www.linkedin/com/in/tiago-sabbioni)
+- 🌱 Currently exploring: API Security & Network Security
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/tiago-sabbioni)
 ---
 
 ## 🧰 Tech stack
