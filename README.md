@@ -9,8 +9,7 @@ Currently studying Computer Science with a focus on
 - 🔐 CTF enthusiast (web, crypto, reverse)
 - 🛠️ Building tools in Python, C and TypeScript
 - 🌱 Currently exploring: API security & secure coding
-- 📫 Reach me: [LinkedIn](#) · [Email](#)
-
+- 📫 Reach me: [LinkedIn](#https://www.linkedin/com/in/tiago-sabbioni)
 ---
 
 ## 🧰 Tech stack
@@ -54,8 +53,6 @@ Currently studying Computer Science with a focus on
 
 ## 📊 GitHub stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=z1zzles&show_icons=true&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=z1zzles&layout=compact&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=z1zzles&hide_border=true)
@@ -64,7 +61,7 @@ Currently studying Computer Science with a focus on
 
 ## 🐍 Contribution graph
 
-![Snake animation](https://github.com/z1zzles/z1zzles/blob/output/github-contribution-grid-snake.svg)
+![Snake](https://github.com/z1zzles/z1zzles/blob/output/github-contribution-grid-snake-dark.svg)
 
 > Generated via [Platane/snk](https://github.com/Platane/snk) GitHub Action
 
