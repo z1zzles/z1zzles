@@ -1,4 +1,4 @@
-# Hi, I'm Tiago 👋
+# Hi
 
 > CS student · Cybersecurity & Backend
 
