@@ -22,9 +22,13 @@ Currently studying Computer Science with a focus on
 
 [![Frameworks](https://skillicons.dev/icons?i=react,nestjs,bootstrap)](https://skillicons.dev)
 
+**Backend & DevOps**
+
+[![Backend & DevOps](https://skillicons.dev/icons?i=postgres,prisma,azure,aws,docker,apache)](https://skillicons.dev)
+
 **Tools & Security**
 
-[![Tools & Security](https://skillicons.dev/icons?i=docker,postgres,prisma,linux,kali,burpsuite)](https://skillicons.dev)
+[![Tools & Security](https://skillicons.dev/icons?i=linux,kali)](https://skillicons.dev)
 
 ## 🐍 Contribution graph
 
